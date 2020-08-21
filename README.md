@@ -1,0 +1,2 @@
+# jcollect
+java core Collections
